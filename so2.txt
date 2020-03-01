@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 noi dung thuoc branch master
 them noi dung vao so3 git
+=======
+noi dung thuoc branch mater
+thuoc nhanh so4
+>>>>>>> commit so2.txt to branch so4
