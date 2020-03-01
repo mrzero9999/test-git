@@ -1,1 +1,2 @@
 noi dung thuoc branch master
+them noi dung vao so3 git
